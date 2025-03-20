@@ -7,20 +7,22 @@
 
 [snr](https://ibanknatoprad.github.io/d3-celestial/demo/snr.html )
 
-https://ibanknatoprad.github.io/d3-celestial/demo/altstars.html 
+[altstars](https://ibanknatoprad.github.io/d3-celestial/demo/altstars.html )
 
-https://ibanknatoprad.github.io/d3-celestial/demo/wallmap.html 
+[wallmap](https://ibanknatoprad.github.io/d3-celestial/demo/wallmap.html )
 
-https://ibanknatoprad.github.io/d3-celestial/demo/viewer.html 
+[viewer](https://ibanknatoprad.github.io/d3-celestial/demo/viewer.html ) 
 
-https://ibanknatoprad.github.io/d3-celestial/demo/triangle.html 
+[triangle](https://ibanknatoprad.github.io/d3-celestial/demo/triangle.html ) 
 
-https://ibanknatoprad.github.io/d3-celestial/demo/chinese.html 
+[chinese](https://ibanknatoprad.github.io/d3-celestial/demo/chinese.html )
 
-https://ibanknatoprad.github.io/d3-celestial/demo/language.html 
+[language](https://ibanknatoprad.github.io/d3-celestial/demo/language.html )
 
-https://ibanknatoprad.github.io/d3-celestial/demo/location.html 
+[location](https://ibanknatoprad.github.io/d3-celestial/demo/location.html )
 
-https://ibanknatoprad.github.io/d3-celestial/demo/planets-animation.html
+[planets-animation](https://ibanknatoprad.github.io/d3-celestial/demo/planets-animation.html)
  
-https://ibanknatoprad.github.io/d3-celestial/demo/skyview.html
+[skyview](https://ibanknatoprad.github.io/d3-celestial/demo/skyview.html)
+
+menu created & edited by [Aibolem barionleg Composarc ibanknatoprad](http://iklm.rf.gd/)
