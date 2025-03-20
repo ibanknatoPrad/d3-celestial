@@ -1,7 +1,7 @@
 
 ### [wiki](https://github.com/ibanknatoPrad/d3-celestial/wiki)
 
-#### [Menu](https://ibanknatoprad.github.io/d3-celestial/demo/) 
+#### [Menu](https://ibanknatoprad.github.io/d3-celestial/index) 
 
 [map](https://ibanknatoprad.github.io/d3-celestial/demo/map.html )
 
